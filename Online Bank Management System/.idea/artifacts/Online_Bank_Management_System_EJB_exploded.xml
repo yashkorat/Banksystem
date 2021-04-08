@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="Online Bank Management System:EJB exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Online_Bank_Management_System_EJB_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Online Bank Management System/ejb/EJB" />
+      <element id="module-output" name="Online Bank Management System" />
+      <element id="javaee-facet-resources" facet="Online Bank Management System/ejb/EJB2" />
+    </root>
+  </artifact>
+</component>

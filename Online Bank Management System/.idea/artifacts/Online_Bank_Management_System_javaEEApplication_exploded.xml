@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="Online Bank Management System:javaEEApplication exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Online_Bank_Management_System_javaEEApplication_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Online Bank Management System/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/ib/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/ib" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/ib/account/build/META-INF/ejb-jar.xml" />
+          <deploymentDescriptor name="sun-ejb-jar.xml" url="file://$MODULE_DIR$/ib/account/build/META-INF/sun-ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/WebContent/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/WebContent" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="javaeeApplication" name="javaEEApplication">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/ib/account/application.xml" />
+        </descriptors>
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/ib/account/ejb-jar.xml" />
+          <deploymentDescriptor name="sun-ejb-jar.xml" url="file://$MODULE_DIR$/ib/account/META-INF/sun-ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="javaeeApplication" name="javaEEApplication2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/out/artifacts/Online_Bank_Management_System_Web_exploded/account/application.xml" />
+        </descriptors>
+      </configuration>
+    </facet>
+    <facet type="javaeeApplication" name="javaEEApplication3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/out/artifacts/Online_Bank_Management_System_javaEEApplication_exploded/META-INF/application.xml" />
+        </descriptors>
+      </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Servlet" removed="false">
+          <file>file://$MODULE_DIR$/WebContent/WEB-INF/spring-servlet.xml</file>
+          <file>file://$MODULE_DIR$/WebContent/WEB-INF/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/ib/WEB-INF/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/ib/WEB-INF/dispatcher-servlet.xml</file>
+          <file>file://$MODULE_DIR$/WebContent/WEB-INF/configs/spring-context.xml</file>
+          <file>file://$MODULE_DIR$/out/artifacts/Online_Bank_Management_System_Web_exploded/WEB-INF/spring-servlet.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/out/artifacts/Online_Bank_Management_System_Web_exploded/account/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/out/artifacts/Online_Bank_Management_System_Web_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/out/artifacts/Online_Bank_Management_System_Web_exploded" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB4">
+      <configuration>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB5">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/out/artifacts/Online_Bank_Management_System_EJB_exploded/META-INF/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB6">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/out/artifacts/Online_Bank_Management_System_Web_exploded/account/build/META-INF/ejb-jar.xml" />
+        </descriptors>
+        <ejbRoots />
+      </configuration>
+    </facet>
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <setting name="provider-name" value="Hibernate" />
+        <datasource-mapping />
+        <naming-strategy-map />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="Spring-5.2.3.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Spring MVC-5.2.3.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Spring Web Services-2.0.2" level="project" />
+    <orderEntry type="library" exported="" name="J2EE 1.4-J2EE 1.4" level="project" />
+    <orderEntry type="library" exported="" name="JPA 1.0-JPA 1.0" level="project" />
+  </component>
+</module>
